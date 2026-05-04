@@ -13,7 +13,7 @@ This course covers the fundamentals of machine learning, from basic models to ad
 
 | # | Topic | Slides / Materials | Notebook | Status |
 |--|------|--------------------|----------|----------|
-| 1 | Introduction to ML & Data Mining | [📄 Slides](./1-Introduction-to-Machine-Learning-and-Data-Mining/01.pdf) | To be added | DONE | 
+| 1 | Introduction to ML & Data Mining | [📄 Slides](./1-Introduction-to-Machine-Learning-and-Data-Mining/01-introduction.pdf) | [Notebook](./1-Introduction-to-Machine-Learning-and-Data-Mining/01-data-mining-vs-machine-learning.ipynb) | DONE | 
 | 2 | Linear Regression | [View](../2-Linear-Regression/) | To be added | | 
 | 3 | Logistic Regression | [View](../3-Logistic-Regression/) | To be added | | 
 | 4 | Regularization | [View](../4-Regularization/) | To be added | | 
@@ -50,26 +50,10 @@ This course covers the fundamentals of machine learning, from basic models to ad
 ## Group Projects (to be updated)
 
 - Project topics will be provided
-- Groups of 2–4 students
+- Groups of 2–4 students (but can be also solo!)
 - Final presentation required
 
 👉 Details coming soon
-
----
-
-## 🔗 Useful Links
-
-- GitHub Repository: [ml-course](https://github.com/USTH-classroom/ml-course)
-- Course README: [README](../README.md)
-
----
-
-## 🚀 Getting Started
-
-1. Browse course modules above  
-2. Follow lectures and materials  
-3. Complete exercises  
-4. Work on the group project  
 
 ---
 
