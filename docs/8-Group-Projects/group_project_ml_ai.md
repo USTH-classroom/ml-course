@@ -1,18 +1,28 @@
-# Group Project: Can AI Help You Build a Better Machine Learning Model?
+<p align="center">
+  <img src="../ml_banner.png" width="100%">
+</p>
+
+# Group Project: _Can AI Help You Build a Better Machine Learning Model?_
 
 **Course:** ICT 3.3 Machine Learning and Data Mining  
-**Level:** Bachelor  
 **Date:** May 2026  
-
-## Project Overview
 
 In this group project, you will build a small machine learning pipeline and critically test whether an AI assistant can improve one part of your work.
 
 The AI assistant may help you think, compare, or debug, but it must **not replace your own modelling decisions**.
 
+
+| Item | Requirement |
+|---|---|
+| Group size | 2–4 students |
+| Output | 5-minute presentation |
+| Main deliverable | Small ML pipeline + critical AI assistant use |
+| Required model | At least one baseline ML model |
+| Required analysis | Evaluation + 3 model mistakes |
+
 ---
 
-## Core Requirements
+## Main Requirements
 
 Your project must include:
 
@@ -25,47 +35,15 @@ Your project must include:
 
 ---
 
-## Suggested Project Tracks
+## Project Tracks
 
-### Track A — Predict Something Useful
 
-Regression or classification tasks, for example:
-
-- predict exam scores
-- predict house prices
-- predict bike rentals
-- predict customer churn
-- predict health risk
-
-### Track B — Classify Text or Behaviour
-
-Classification tasks, for example:
-
-- classify reviews
-- detect spam messages
-- classify news headlines
-- classify user behaviour
-
-### Track C — Discover Hidden Groups
-
-Use clustering to identify groups of:
-
-- songs
-- customers
-- countries
-- penguins
-- documents
-
-### Track D — AI vs Classical ML
-
-Compare a traditional ML model with an LLM prompt on the same task.
-
-Analyze:
-
-- accuracy
-- behaviour
-- strengths and weaknesses
-- where the LLM helps or fails
+| Track | Type | Goal | Examples |
+|---|---|---|---|
+| **📈 Track A — Predict Something Useful** | Regression / Classification | Predict outcomes | exam scores, house prices, bike rentals, churn, health risk |
+| **💬 Track B — Classify Text or Behaviour** | Classification | Label text or behaviour | reviews, spam, news headlines, user actions |
+| **🧩 Track C — Discover Hidden Groups** | Clustering | Find hidden structure | songs, customers, countries, penguins, documents |
+| **🤖 Track D — AI vs Classical ML** | Comparison | Compare ML model vs LLM | accuracy, behaviour, strengths, weaknesses |
 
 ---
 
@@ -73,9 +51,7 @@ Analyze:
 
 You may choose your own dataset, but the following options are beginner-friendly and suitable for bachelor-level ML projects.
 
-Some Kaggle datasets may require a free Kaggle account.
-
-## Dataset Menu
+Some Kaggle datasets may require a free [Kaggle](https://www.kaggle.com/) account.
 
 | Theme | Dataset | Link | Possible task | Good for |
 |---|---|---|---|---|
@@ -140,49 +116,50 @@ Report:
 
 ---
 
-## Minimum Experiment Structure
+## Minimum Experiment & Error Analysis
 
-Your experiment must include:
+Your project must include:
 
-### 1. Baseline
+1. **Baseline model**  
+   Train a simple model using the original features.
 
-Train a simple model using the original features.
+2. **Improved version**  
+   Change one thing: a feature, model, preprocessing step, or LLM-assisted idea.
 
-### 2. Improved Version
+3. **Evaluation**  
+   Compare baseline vs improved version using the same train/test split and appropriate metrics.
 
-Change one thing, such as:
+4. **Error analysis**  
+   Choose **three interesting mistakes** and explain:
+   - input example
+   - true label/value
+   - model prediction
+   - why it may have failed
+   - what you would try next
 
-- one feature
-- one model
-- one preprocessing step
-- one LLM-assisted idea
+5. **Interpretation**  
+   Explain what changed, whether performance improved, and why.
 
-### 3. Evaluation
+## What to Submit
 
-Compare baseline vs improved version using the same train/test split.
+Each group should submit:
 
-### 4. Interpretation
+- Presentation slides
+- Code notebook or script
+- Short README explaining how to run the project
+- Dataset link or data source
+- Short note describing how the AI assistant was used
 
-Explain:
 
-- what changed
-- why the result improved
-- or why the result did not improve
+## Do / Don’t
 
----
-
-## Required Error Analysis
-
-Choose **three interesting mistakes** made by your model.
-
-For each mistake, answer:
-
-1. What was the input example?
-2. What was the true label or value?
-3. What did the model predict?
-4. Why might the model have failed?
-5. Would a human have made the same mistake?
-6. What would you try next to improve the model?
+| Do | Don’t |
+|---|---|
+| Use a simple baseline first | Start with a complex model immediately |
+| Keep the same train/test split for comparisons | Compare models unfairly |
+| Explain errors with concrete examples | Only report accuracy |
+| Use the LLM in a controlled way | Let the LLM decide everything |
+| Be honest if the LLM did not help | Pretend every AI suggestion improved results |
 
 ---
 
@@ -217,24 +194,49 @@ Each group gives a **5-minute presentation**.
 
 Groups may receive bonus recognition for:
 
-| Badge                                                          | Meaning |
-|----------------------------------------------------------------|---|
-| <img src="../badges/best-error-analysis.png" width="80">       | Best error analysis |
-| <img src="../badges/best-feature-engineering.png" width="80"> | Best feature engineering idea |
-| <img src="../badges/best-critical-llm-use.png" width="80">    | Best critical use of an LLM |
-| <img src="../badges/best-visualization.png" width="80">       | Best visualization |
-| <img src="../badges/best-real-world-problem.png" width="80">  | Best real-world problem formulation |
-| <img src="../badges/best-tech-smart.png" width="80">          | Best tech smart |
+## 🏆 Bonus Badges
+
+<table>
+<tr>
+<td align="center">
+<img src="../badges/best-error-analysis.png" width="120"><br>
+Best error analysis
+</td>
+<td align="center">
+<img src="../badges/best-feature-engineering.png" width="120"><br>
+Best feature engineering idea
+</td>
+<td align="center">
+<img src="../badges/best-critical-llm-use.png" width="120"><br>
+Best critical use of an LLM
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../badges/best-visualization.png" width="120"><br>
+Best visualization
+</td>
+<td align="center">
+<img src="../badges/best-real-world-problem.png" width="120"><br>
+Best real-world problem formulation
+</td>
+<td align="center">
+<img src="../badges/best-tech-smart.png" width="120"><br>
+Best tech smart
+</td>
+</tr>
+</table>
 
 ---
 
-## Reminder
+## Reminders
 
-A strong project is **not** the one with the highest accuracy.
-
-A strong project is one where you:
-
+1. A strong project is **not** the one with the highest accuracy. A strong project is one where you:
 - understand the data
 - make reasonable choices
 - test them fairly
 - explain what the model still does not understand
+
+2. Start simple. A clear baseline, fair comparison, and thoughtful error analysis are more important than using the most advanced model.
+
+> Good ML is not only about improving scores. It is about understanding what the model learns, what it misses, and why.
