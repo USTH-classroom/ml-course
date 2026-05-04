@@ -1,6 +1,8 @@
-# 🎓 Machine Learning Course
+<p align="center">
+  <img src="./ml_banner.png" width="100%">
+</p>
 
-Welcome to the Machine Learning course 🚀
+## Welcome to the Machine Learning course 🚀
 
 This course covers the fundamentals of machine learning, from basic models to advanced concepts and applications.
 
