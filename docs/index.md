@@ -47,20 +47,19 @@ Clone [the repository](https://github.com/USTH-classroom/ml-course) `git clone g
 |----------|--------|-------------|
 | Assignments / Exercises | 30% | Short practical exercises and notebooks during the course |
 | Group Project | 30% | Mini ML project with dataset, model, evaluation, error analysis, and presentation |
-| Final Exam | 30% | Theoretical and practical understanding of the main ML concepts |
+| Final/Midterm Exam | 30% | Theoretical and practical understanding of the main ML concepts |
 | Participation | 10% | Attendance, questions, discussions, and active participation |
 
 ---
 
 ## Group Project
 
-[📌 Group Project Instructions](./coming-soon.md)
+[📌 Group Project Instructions](./8-Group-Projects/group_project_ml_ai.md)
 
-- Project topics will be provided
+- Project topics are provided
 - Groups of 2–3 students (but can be also solo!)
 - Final presentation required
-
-👉 Details coming soon
+- Deadline to be annaounced..
 
 ---
 
