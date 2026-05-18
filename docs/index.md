@@ -57,7 +57,7 @@ Clone [the repository](https://github.com/USTH-classroom/ml-course) `git clone g
 [📌 Group Project Instructions](./8-Group-Projects/group_project_ml_ai.md)
 
 - Project topics are provided
-- Groups of 2–3 students (but can be also solo!)
+- Groups of 2–4 students (but can be also solo!)
 - Final presentation required
 - Deadline to be announced..
 
