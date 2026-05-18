@@ -137,15 +137,14 @@ Your project must include:
 Each group should submit:
 
 - Presentation slides
-- Code notebook or script
+- Code notebook or script (or repository)
 - Short README explaining how to run the project
-- Dataset link or data source
-- Short note describing how the AI assistant was used
+- Short note describing how the AI assistant was used (if it was)
 
 
-## Do / Don’t
+## Do / Don't
 
-| Do | Don’t |
+| Do | Don't |
 |---|---|
 | Use a simple baseline first | Start with a complex model immediately |
 | Keep the same train/test split for comparisons | Compare models unfairly |
@@ -166,19 +165,6 @@ Each group gives a **5-minute presentation**.
 | 3 | Best result and metric |
 | 4 | Most interesting error |
 | 5 | Did the AI assistant help or mislead you? |
-
----
-
-## Assessment Suggestion
-
-| Criterion | Weight | What matters |
-|---|---:|---|
-| Problem formulation | 15% | Clear task, dataset understanding, appropriate ML framing |
-| ML implementation | 25% | Correct preprocessing, baseline, modelling, and reproducibility |
-| Evaluation | 20% | Appropriate metrics, fair comparison, clear interpretation |
-| Error analysis | 20% | Concrete mistakes, thoughtful explanations, links to ML concepts |
-| Critical LLM use | 15% | Controlled use, comparison with own reasoning, honest limits |
-| Presentation clarity | 5% | Clear story, readable visuals, concise delivery |
 
 ---
 
