@@ -50,18 +50,6 @@ Do not spend more than **20–30%** of your time on the LLM component.
 
 ---
 
-## Project Tracks
-
-
-| Track | Type | Goal | Examples |
-|---|---|---|---|
-| **📈 Track A — Predict Something Useful** | Regression / Classification | Predict outcomes | exam scores, house prices, bike rentals, churn, health risk |
-| **💬 Track B — Classify Text or Behaviour** | Classification | Label text or behaviour | reviews, spam, news headlines, user actions |
-| **🧩 Track C — Discover Hidden Groups** | Clustering | Find hidden structure | songs, customers, countries, penguins, documents |
-| **🤖 Track D — AI vs Classical ML** | Comparison | Compare ML model vs LLM | accuracy, behaviour, strengths, weaknesses |
-
----
-
 ## Dataset Menu
 
 You may choose your own dataset, but the following options are beginner-friendly and suitable for bachelor-level ML projects.
