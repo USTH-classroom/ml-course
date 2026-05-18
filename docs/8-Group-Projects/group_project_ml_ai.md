@@ -221,9 +221,9 @@ Best tech smart
 
 ---
 
-## Accessing the Gemini API (Free Option for Student Projects)
+## Accessing the Gemini API
 
-Students may use the free-tier [Google Gemini API](https://ai.google.dev/) as the LLM component for this project.
+You may use the free-tier [Google Gemini API](https://ai.google.dev/) as the LLM component for this project.
 
 The Gemini API is beginner-friendly, free for small projects, and works well for:
 - text classification
