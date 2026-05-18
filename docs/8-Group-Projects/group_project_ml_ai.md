@@ -177,29 +177,29 @@ Groups may receive bonus recognition for:
 <table>
 <tr>
 <td align="center">
-<img src="../badges/best-error-analysis.png" width="120"><br>
+<img src="./badges/best-error-analysis.png" width="120"><br>
 Best error analysis
 </td>
 <td align="center">
-<img src="../badges/best-feature-engineering.png" width="120"><br>
+<img src="./badges/best-feature-engineering.png" width="120"><br>
 Best feature engineering idea
 </td>
 <td align="center">
-<img src="../badges/best-critical-llm-use.png" width="120"><br>
+<img src="./badges/best-critical-llm-use.png" width="120"><br>
 Best critical use of an LLM
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="../badges/best-visualization.png" width="120"><br>
+<img src="./badges/best-visualization.png" width="120"><br>
 Best visualization
 </td>
 <td align="center">
-<img src="../badges/best-real-world-problem.png" width="120"><br>
+<img src="./badges/best-real-world-problem.png" width="120"><br>
 Best real-world problem formulation
 </td>
 <td align="center">
-<img src="../badges/best-tech-smart.png" width="120"><br>
+<img src="./badges/best-tech-smart.png" width="120"><br>
 Best tech smart
 </td>
 </tr>
